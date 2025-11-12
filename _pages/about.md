@@ -15,6 +15,6 @@ This site is where I record my ideas, research notes, and methods developed thro
 - Natural language processing
 - Interdisciplinary research combining AI with scientific discovery 
 
-# Target
+# target
 I use this website to document my progress, share reproducible workflows, and explore new directions in computational research.  
 Feel free to browse my publications, projects, and notes — and reach out if you'd like to collaborate.
