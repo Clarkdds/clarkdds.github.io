@@ -1,6 +1,6 @@
 ---
 title: "My First Blog Post"
-date: 2025-11-10
+date: 2025-11-13
 categories: [Blog]
 tags: [introduction, welcome]
 ---
