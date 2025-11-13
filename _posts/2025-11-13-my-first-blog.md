@@ -4,7 +4,7 @@ date: 2025-11-13
 categories: [Blog]
 tags: [introduction, welcome]
 author: clark
-excerpt: hello world!
+excerpt: "hello world!"
 ---
 
 Hello everyone! 👋  
