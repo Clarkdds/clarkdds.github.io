@@ -456,4 +456,4 @@ The footnotes in the page will be returned following this line, return to the se
 
 ## Photo Insert
 
-This is my profile picture.![rick](/images/rick.png)
+This is my profile picture.![my profile photo](/images/rick.png)
